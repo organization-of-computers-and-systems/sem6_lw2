@@ -64,8 +64,7 @@ git checkout -b part_2
 ```
 [Пункты задания Часть 2](https://www.notion.so/maffin-edu/2-bee985ac360747a4b20c47f5eb23b153)  
 [Пункты задания Часть 3](https://www.notion.so/maffin-edu/3-050ec80b960344eda63c8aef9780d78c)  
-
-[Пункты задания Часть 4](https://www.notion.so/maffin-edu/4-f30a612a680a4088978ff02c409e7734)
+[Пункты задания Часть 4](https://www.notion.so/maffin-edu/4-f30a612a680a4088978ff02c409e7734)  
 В последнем пункте задания имеет смысл сделать еще несколько веток под каждый пункт задания
 ```
 git checkout -b part_4_word
