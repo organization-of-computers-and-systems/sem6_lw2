@@ -72,5 +72,5 @@ git checkout -b part_4_half-word
 git checkout -b part_4_byte
 ```
 
-[Таблица с вариаетами индивидуального задания](https://maffin-edu.notion.site/47a7cd0b8fb5462ab8b23e103f362935)
+[Таблица с вариантами индивидуального задания](https://maffin-edu.notion.site/47a7cd0b8fb5462ab8b23e103f362935)
 
